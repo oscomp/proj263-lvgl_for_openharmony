@@ -29,7 +29,7 @@ Apache 2.0(https://www.apache.org/licenses/LICENSE-2.0.html)
 
 ## 预期目标
 
-在OpenHarmony轻量系统上移植LVGL库，利用该库在LOED显示屏上显示简单的图形图像。
+在OpenHarmony轻量系统上移植LVGL库，利用该库在OLED显示屏上显示简单的图形图像。
 
 ## **选择该赛题的支持**
 
